@@ -1,4 +1,4 @@
-  <p align="right">
+  <p align="center">
 <img src="https://instagram.fbsb1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/107511534_290114902049847_3913961356678163414_n.jpg?_nc_ht=instagram.fbsb1-1.fna.fbcdn.net&_nc_ohc=D59fdpfG2m8AX-dUjBX&edm=ALbqBD0BAAAA&ccb=7-4&oh=a2725ce2cb0f2e0bab117baaa50686ef&oe=618ECFC0&_nc_sid=9a90d6" height="150" width="150" border="0">
   </p>
  
