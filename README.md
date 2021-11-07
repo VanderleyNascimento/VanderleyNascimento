@@ -1,10 +1,10 @@
+  <p align="right">
+<img src="https://instagram.fbsb1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/107511534_290114902049847_3913961356678163414_n.jpg?_nc_ht=instagram.fbsb1-1.fna.fbcdn.net&_nc_ohc=D59fdpfG2m8AX-dUjBX&edm=ALbqBD0BAAAA&ccb=7-4&oh=a2725ce2cb0f2e0bab117baaa50686ef&oe=618ECFC0&_nc_sid=9a90d6" height="150" width="150" border="0">
+  </p>
+ 
   
-  <div style="display: inline_block"><br>
-  <img align="right" alt="Olive-pic" height="150" style="border-radius:50px;" src="https://instagram.fbsb1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/107511534_290114902049847_3913961356678163414_n.jpg?_nc_ht=instagram.fbsb1-1.fna.fbcdn.net&_nc_ohc=D59fdpfG2m8AX-dUjBX&edm=ALbqBD0BAAAA&ccb=7-4&oh=a2725ce2cb0f2e0bab117baaa50686ef&oe=618ECFC0&_nc_sid=9a90d6">
-  </div>
-  
-  # Olá a Todos, eu sou o Vanderley! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/OygVIRecIENsSWBmeY/giphy.gif" width="230">
+  # Olá a Todos, eu sou o Vanderley! <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="100"> 
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
 
   <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Sejam+Bem+Vindos!!;Em+evolução...;Em+breve+aplicações+minhas.">
@@ -85,5 +85,6 @@ const VanderleyNascimento = {
 
 
 <br>
-
-<img src="https://media.giphy.com/media/l57S5YHCU5RDtUjXHq/giphy.gif" border="0">
+<p align="center">
+<img src="https://media.giphy.com/media/l57S5YHCU5RDtUjXHq/giphy.gif" height="300" width="300" border="0">
+  </p>
