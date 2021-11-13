@@ -73,7 +73,6 @@ const VanderleyNascimento = {
  
   <br>
 
-## Now Playing
 
 
 
