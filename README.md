@@ -3,7 +3,7 @@
   </p>
  
   
-  # Olá a Todos, eu sou o Vanderley! <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="100"> 
+  # Olá a Todos, eu sou o Vanderley! 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
 
   <p align="center">
