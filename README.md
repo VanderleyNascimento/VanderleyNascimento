@@ -76,10 +76,7 @@ const VanderleyNascimento = {
 ## Now Playing
 
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/playlist/5tyq32vUWlQobT5fKqS9n7)
 
-----
-<br>
   
   
 
