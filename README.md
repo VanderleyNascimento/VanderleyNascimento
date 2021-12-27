@@ -1,6 +1,4 @@
-  <p align="center">
-<img src="https://scontent.fbsb1-1.fna.fbcdn.net/v/t39.30808-6/267477899_4363931233715682_6929553660608280836_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEmeJjH00FfMN0YDqtt0SRR3PkRY4FVH13c-RFjgVUfXfz1MD8MnFYApT3R9L-4L07fFZJmJlDpW6LvoLmNaaIH&_nc_ohc=JsRhUFYK5IAAX_lISbE&tn=80u0iigbCDLiIgq7&_nc_ht=scontent.fbsb1-1.fna&oh=00_AT_DsRz0xkyjVcxlIr-1Z4Np4vmj4rhSufOswwONr4JSag&oe=61BBB69A" height="150" width="150" border="0">
-  </p>
+
  
   
   # Olá a Todos, eu sou o Vanderley! 
