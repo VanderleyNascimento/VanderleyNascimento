@@ -1,14 +1,14 @@
 
  
   
-   Olá a Todos, eu sou o Vanderley! 
+   # Olá a Todos, eu sou o Vanderley! 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
 
   <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Sejam+Bem+Vindos!!;Em+evolução...;Em+breve+aplicações+minhas.">
 </p>
   
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
+  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
 
 ```javascript
 const VanderleyNascimento = {
