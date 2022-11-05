@@ -1,7 +1,7 @@
 
  
   
-  # Olá a Todos, eu sou o Vanderley! 
+   Olá a Todos, eu sou o Vanderley! 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
 
   <p align="center">
@@ -24,8 +24,7 @@ const VanderleyNascimento = {
       Tecnologias: {
       
         Front-End: {
-            Web: ["JS", "HTML5","CSS3"];
-            Version: ["GitHub"];
+            Web: ["JS", "HTML5","CSS3"],
         },
         
         back-End: {
@@ -33,8 +32,13 @@ const VanderleyNascimento = {
         },
         
         BancoDeDados: ["MySql"],
-    },
-     FocoAtual: "JavaScript",
+        },
+        
+        Version:  {
+           Git: ["GitHub"],
+        },
+        
+     FocoAtual: ["JavaScript"],
     
 };
 ```
