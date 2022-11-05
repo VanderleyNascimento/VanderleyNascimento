@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Sejam+Bem+Vindos!!;Em+evolução...;Em+breve+aplicações+minhas.">
 </p>
   
-  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
 
 ```javascript
 const VanderleyNascimento = {
@@ -22,7 +22,13 @@ const VanderleyNascimento = {
     Codigos:["Javascript" ,"Dart" ,"HTML5" ,"CSS3" ,"MySQL" ],
     MePergunteSobre:["WebDev", "Tech", "AppMobile"],
       Tecnologias: {
-        backEnd: {
+      
+        Front-End: {
+            Web: ["JS", "HTML5","CSS3"];
+            Version: ["GitHub"];
+        },
+        
+        back-End: {
             js: ["Node"],
         },
         
