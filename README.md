@@ -28,7 +28,7 @@ const VanderleyNascimento = {
         
         BancoDeDados: ["MySql"],
     },
-     FocoAtual: "Dart",
+     FocoAtual: "JavaScript",
     
 };
 ```
