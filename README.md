@@ -71,10 +71,3 @@ const VanderleyNascimento = {
 
  ----
  <br>
-
-
-        <br>
- <p align="center">
-    <img src="https://media.giphy.com/media/l57S5YHCU5RDtUjXHq/giphy.gif" height="300" width="300" border="0">
- </p>
-  ![Snake animation]([https://github.com/VanderleyNascimento/VanderleyNascimento/blob/output/github-contribution-grid-snake.svg)
