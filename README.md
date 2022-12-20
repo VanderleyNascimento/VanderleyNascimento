@@ -73,11 +73,6 @@ const VanderleyNascimento = {
  <br>
 
 
- <div align="center">
-     <a href="https://github.com/VanderleyNascimento">
-     <img height="150" src="https://github-readme-stats.vercel.app/api?username=vanderleynascimento&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderleynascimento&layout=compact&langs_count=7&theme=chartreuse-dark&white"/>
- </div>
         <br>
  <p align="center">
     <img src="https://media.giphy.com/media/l57S5YHCU5RDtUjXHq/giphy.gif" height="300" width="300" border="0">
