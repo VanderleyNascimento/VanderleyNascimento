@@ -71,3 +71,5 @@ const VanderleyNascimento = {
 
  ----
  <br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/l57S5YHCU5RDtUjXHq/giphy.gif" height="300" width="300" border="0">
