@@ -1,7 +1,7 @@
 
  
   
-   # Olá a Todos, eu sou o Vanderley! 
+   # Oi, eu sou o Vanderley!
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
 
   <p align="center">
@@ -42,12 +42,6 @@ const VanderleyNascimento = {
     
 };
 ```
-<div align="center">
-  <a href="https://github.com/VanderleyNascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanderleyNascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderleyNascimento&layout=compact&langs_count=7&theme=radical"/>
-</div>
-----
 <br>
 
  <div style="display: inline_block"><br>
@@ -73,9 +67,14 @@ const VanderleyNascimento = {
  <a href="https://open.spotify.com/playlist/5tyq32vUWlQobT5fKqS9n7?si=57295e4f1c3646e4"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
  <br><br>
+ <div align="center">
+  <a href="https://github.com/VanderleyNascimento">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanderleyNascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderleyNascimento&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
- ----
+ ---
  <br>
   <p align="center">
     <img src="https://media.giphy.com/media/l57S5YHCU5RDtUjXHq/giphy.gif" height="300" width="300" border="0">
