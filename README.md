@@ -1,103 +1,114 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=System.init(Vanderley);&fontSize=50&fontAlignY=50&fontColor=00ff00&animation=fadeIn"/>
+  
+  <br/>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Arquiteto+de+Soluções+AI-Native;Especialista+em+Banco+de+Dados;Next.js+15+%26+Supabase+Architect;Transformando+Ideias+em+Sistemas+Escaláveis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Arquiteto+de+Soluções+Nível+99;Dungeon+Master+de+Banco+de+Dados;Devorador+de+Livros+e+Código;Don't+Panic!+🖖" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Vanderley%20Nascimento&fontSize=60&fontAlignY=35&desc=Solutions%20Architect%20%7C%20Brasília,%20DF&descAlignY=55&descAlign=50&fontColor=ffffff"/>
-</div>
+<br />
 
 <div align="center">
-  <br />
-  <h3>⚡ Arquiteto de Soluções focado em Performance e Escalabilidade</h3>
+  <h3>👾 "Eu não tenho bugs, tenho recursos não documentados."</h3>
   <p>
-    Não escrevo apenas código; eu desenho <b>ecossistemas</b>. Minha especialidade é arquitetar soluções complexas utilizando Inteligência Artificial para acelerar o desenvolvimento, mantendo o rigor técnico de um software <i>Enterprise</i>. Combinando minha formação em <b>Análise de Sistemas</b> com a especialização em <b>Banco de Dados</b>, crio aplicações que são seguras por design e prontas para crescer.
+    Olá, viajante! Sou um <b>Arquiteto de Soluções AI-Native</b> que acredita que a ficção científica de ontem é a documentação técnica de hoje. Passo meus dias orquestrando sistemas complexos com <b>Next.js</b> e <b>Supabase</b>, e minhas noites explorando novos mundos através da leitura. Minha missão é transformar café em arquitetura de software escalável e robusta.
   </p>
 </div>
 
 <br />
 
 <div align="center">
-  <pre align="left" style="background-color: #1e293b; border-radius: 10px; padding: 20px; display: inline-block;">
+  <pre align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; display: inline-block; color: #c9d1d9;">
 <code class="language-typescript">
-const vanderley = {
-    role: "Solutions Architect",
-    location: "Brasília, DF 🇧🇷",
-    
-    academic: [
-        "Gestão de Banco de Dados (Em curso)",
-        "Análise e Desenv. de Sistemas (Formando)"
-    ],
+class Vanderley extends SolutionsArchitect {
+    constructor() {
+        super();
+        this.name = "Vanderley Nascimento";
+        this.location = "Brasília_DF (Server: South America)";
+        this.level = "Senior";
+        
+        this.attributes = {
+            INT: 99, // Intelligence (Database & Architecture)
+            WIS: 85, // Wisdom (Strategy & Planning)
+            CHA: 90, // Charisma (Team Leadership)
+            MP: "Infinite (Coffee Powered)"
+        };
 
-    hardSkills: [
-        "System Design & Architecture",
-        "Database Modeling (SQL/NoSQL)",
-        "AI Orchestration & Prompt Engineering"
-    ],
+        this.inventory = [
+            "Kindle (Loaded with Asimov & Technical Docs)",
+            "Keyboard (Mechanical)",
+            "Supabase Admin Key"
+        ];
+        
+        this.currentQuest = "Building the ultimate Logistics SaaS";
+    }
 
-    motto: "Architecture first, code second."
-};
+    public async drinkCoffee(): Promise<Code> {
+        return this.deploy("Enterprise Solutions");
+    }
+}
 </code>
 </pre>
 </div>
 
 <br />
 
-## 🚀 Tech Stack & Arquitetura
+## 🛠️ Arsenal Tecnológico (Equipamentos)
 
 <div align="center">
 
-| **Frontend & UX** | **Backend & Cloud** | **DevOps & QA** |
+| **Frontend Core** | **Backend & Data** | **Quality Assurance** |
 |:---:|:---:|:---:|
-| ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) |
 | ![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Edge Functions](https://img.shields.io/badge/Edge_Functions-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![k6](https://img.shields.io/badge/k6_Load_Test-7D64FF?style=for-the-badge&logo=k6&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Security](https://img.shields.io/badge/RLS_%26_Auth-FFCA28?style=for-the-badge&logo=auth0&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![SQL Expert](https://img.shields.io/badge/SQL_Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP_Security-black?style=for-the-badge&logo=owasp&logoColor=white) |
 
 </div>
 
 <br />
 
-## 🧠 Metodologias & Ferramentas de Planejamento
+## 📚 Biblioteca Neural (Reading List)
 
-Como Arquiteto, o trabalho começa antes da primeira linha de código. Utilizo ferramentas visuais e metodologias ágeis para garantir a entrega.
+*"Uma mente necessita de livros da mesma forma que uma espada necessita de uma pedra de amolar."* — Tyrion Lannister
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <a href="https://goodreads.com/">
+    <img src="https://img.shields.io/badge/Ficção_Científica-Asimov_%26_Herbert-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tech-Clean_Architecture-0052CC?style=for-the-badge&logo=bookstack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fantasia-Tolkien_%26_Martin-FFD700?style=for-the-badge&logo=bookstack&logoColor=white" />
+  </a>
 </div>
 
 <br />
 
-## 🏆 Case de Sucesso: Governança Logística (SaaS)
+## 📊 Telemetria do Sistema
 
-> *Plataforma Enterprise Multi-tenant para Gestão de Centros de Distribuição*
-
-Este projeto demonstra minha capacidade de entregar sistemas complexos *end-to-end*.
-
-* 🔥 **O Desafio:** Criar uma "Torre de Controle" logística para monitorar docas e frotas em tempo real.
-* ⚙️ **A Solução:** Arquitetura baseada em **WebSockets** para latência < 100ms, isolamento de dados via **RLS** e **470+ testes automatizados**.
-* 🛡️ **Segurança:** Auditoria completa (quem fez o quê e quando) e proteção contra OWASP Top 10.
-
-<br />
-
-## 📊 Métricas de Desenvolvimento
+Aqui estão os dados compilados da minha atividade neural no GitHub.
+*Se as imagens abaixo não carregarem, é um erro na Matrix (API).*
 
 <div align="center">
   <a href="https://github.com/VanderleyNascimento">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanderleyNascimento&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&text_color=64748b&icon_color=3B82F6"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderleyNascimento&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=3B82F6&text_color=64748b"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanderleyNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
+  </a>
+  
+  <a href="https://github.com/VanderleyNascimento">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderleyNascimento&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+<br />
+<div align="center">
+  <a href="https://github.com/VanderleyNascimento">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanderleyNascimento&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
   
   <br />
   
@@ -105,15 +116,12 @@ Este projeto demonstra minha capacidade de entregar sistemas complexos *end-to-e
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:conta.vanderleynascimento@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dev.to/vanderleynascimento">
-    <img src="https://img.shields.io/badge/Dev.to-My_Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Send_Packet-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <br /><br />
-  <p style="font-size: 12px; color: #64748b;">
-    <i>"A simplicidade é o grau máximo de sofisticação." — Leonardo da Vinci</i><br>
-    <i>© 2025 Vanderley Nascimento</i>
+  <p style="font-size: 12px; color: #64748b; font-family: monospace;">
+    <i>42 is the answer. But what is the question?</i><br>
+    <i>© 2025 Vanderley Nascimento | Build v3.0</i>
   </p>
 </div>
