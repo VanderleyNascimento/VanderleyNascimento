@@ -10,6 +10,27 @@
 
 <br />
 
+<br />
+<div align="center">
+  <details>
+    <summary style="cursor: pointer; color: #64748b; font-family: monospace; font-size: 12px;">
+      [!] View System Logs (Click to Expand)
+    </summary>
+    
+    <pre align="left" style="background-color: #000; color: #00ff00; padding: 15px; border-radius: 5px; font-family: 'Courier New', monospace; font-size: 11px;">
+[BOOT_SEQUENCE]: Initializing Vanderley.OS v3.0...
+[OK] Loading Modules: Next.js, React, Supabase...
+[WARN] Caffeine_Level is CRITICAL (15%) - Refill required immediately.
+[INFO] Current_Objective: "Dominate the World with Clean Code."
+[CHECK] Database_Integrity: 100% (No DROP TABLE executed today).
+[CHECK] Social_Life: 404 Not Found (Just kidding... maybe).
+    
+>> SYSTEM READY. WAITING FOR INPUT... _
+    </pre>
+  </details>
+</div>
+
+
 <div align="center">
   <h3>👾 "Eu não tenho bugs, tenho recursos não documentados."</h3>
   <p>
