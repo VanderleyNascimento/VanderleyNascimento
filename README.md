@@ -31,6 +31,8 @@
 </div>
 
 
+
+
 <div align="center">
   <h3>👾 "Eu não tenho bugs, tenho recursos não documentados."</h3>
   <p>
